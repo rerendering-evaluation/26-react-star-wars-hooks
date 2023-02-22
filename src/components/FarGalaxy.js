@@ -29,9 +29,9 @@ const FarGalaxy = props => {
     }, [])
 
 
-        return (
-            <p className={styles.farGalaxy}>{opening_crawl}</p>
-        );
+    return (
+        <p className={styles.farGalaxy}>{opening_crawl}</p>
+    );
 
 }
 
